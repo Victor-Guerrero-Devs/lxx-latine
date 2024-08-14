@@ -1,7 +1,7 @@
 ---
 import NavBar from '../components/nav-bar.astro';
 import Footer from '../components/footer.astro';
-const pageTitle = "Orations in John";
+const pageTitle = "LXX in Latin";
 ---
 <html lang="en">
   <head>
@@ -9,7 +9,7 @@ const pageTitle = "Orations in John";
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <title>{pageTitle}</title>
+    <title>{pageTitle || "LXX in Latin"}</title>
   </head>
   <body class="bg-slate-300">
     <NavBar />
