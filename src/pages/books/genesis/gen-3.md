@@ -104,7 +104,7 @@ tags: ["genesis"]
 
 20. καὶ ἐκάλεσεν Αδαμ τὸ ὄνομα τῆς γυναικὸς αὐτοῦ Ζωή, ὅτι αὕτη μήτηρ πάντων τῶν ζώντων.
 
-- Et vocāvit Adam nōmen mulieris suæz, Ēvā; quoniam est māter omnium vīventium.
+- Et vocāvit Adam nōmen mulieris suæ, Ēvā; quoniam est māter omnium vīventium.
 
 21. καὶ ἐποίησεν κύριος ὁ θεὸς τῷ Αδαμ καὶ τῇ γυναικὶ αὐτοῦ χιτῶνας δερματίνους, καὶ ἐνέδυσεν αὐτούς.
 
